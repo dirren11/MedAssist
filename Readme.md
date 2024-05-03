@@ -1,8 +1,8 @@
-# Rakshya - A friend in need
+# MedAssist - A friend in need
 
 ![App ScreenShot](https://i.postimg.cc/3JfvQ0PR/appLogo.jpg)
 
-Welcome to the **Rakshya** – your lifeline in critical situations. This app is your indispensable companion, providing vital first aid information and powerful features to guide you through emergencies with confidence. Offering complete voice control, offline functionality, and location tracking, it's your trusted ally when every moment counts.
+Welcome to the **MedAssist** – your lifeline in critical situations. This app is your indispensable companion, providing vital first aid information and powerful features to guide you through emergencies with confidence. Offering complete voice control, offline functionality, and location tracking, it's your trusted ally when every moment counts.
 
 ## Table of Contents
 
